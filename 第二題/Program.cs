@@ -41,7 +41,7 @@ namespace 第二題
                 }
                 else if(item == order1.Last())
                 {
-                    Console.Write(item);
+                    Console.WriteLine(item);
                 }
             }
             Console.WriteLine("偶數:");
@@ -53,7 +53,7 @@ namespace 第二題
                 }
                 else if (item == order2.Last())
                 {
-                    Console.Write(item);
+                    Console.WriteLine(item);
                 }
             }
 
